@@ -175,3 +175,8 @@ VSСode дает возможность выбрать какое изменен
 
 ![Вилка и Fork](https://ae01.alicdn.com/kf/H0ee2e7f05ef546f0aa86ccb42c5ee4f2k/Retro-Stainless-Steel-Cutlery-Ancient-Silver-Color-Kitchen-Knife-Fork-Spoon-Fruit-Fork-Steak-Knife-Coffee.jpg_640x640.jpg)
 
+## Запрос на интеграцию изменений из одной ветки в другую
+
+Pull-request позволяют разработчикам делиться внесенными в код изменениями с другими участниками одной системы. Это запрос на принятие изменений.
+
+Pull-request - эта функция выполняется только в Github.
